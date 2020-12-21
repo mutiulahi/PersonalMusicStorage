@@ -1,6 +1,7 @@
 # PersonalMusicStorage
 
-A web application That store music to download and listen. Built using pure PHP, html, css, JavaScript
+##A web application That store music to download and listen. Built using pure PHP, html, css, JavaScript.
+###And it design for a particular person
 
 
 ## Author
